@@ -4,7 +4,7 @@
 ---
 This calculator was written in Python and can be used for the four basic arithmetic operations: addition, subtraction, multiplication, and division.
 
-🤔 How can I use it
+🤔 How can I use it?
 ---
 To use the calculator, run the Python code and enter the desired arithmetic operation by inputting the number 1, 2, 3, or 4.
 
